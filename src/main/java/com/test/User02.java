@@ -5,6 +5,6 @@ package com.test;
  */
 public class User02 {
     public static void main(String[] args) {
-        System.out.println("user02");
+        System.out.println("user02___________________________");
     }
 }
